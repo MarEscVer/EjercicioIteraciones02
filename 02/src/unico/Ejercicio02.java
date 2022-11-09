@@ -6,6 +6,15 @@ public class Ejercicio02 {
 
 	public static void main(String[] args) {
 		Scanner teclado = new Scanner(System.in);
+
+/* Un centro educativo nos ha pedido que diseñemos una aplicación para
+ * calcular datos estadísticos de los alumnos. Se introducirán las edades
+ * de los elumnos hasta que una de ellas sea negativa. La aplicación
+ * mostrará la suma de las edades, la media, de cuántos alumnos hemos
+ * introducido su edad, y cuántos alumnos son mayores de edad.
+ */
+
+
 		
 		int edad;
 		int suma = 0;
